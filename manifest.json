@@ -1,0 +1,17 @@
+{
+  "name": "Mutfak Defterim",
+  "short_name": "Mutfak",
+  "description": "Yaptığım yemeklerin fotoğrafları ve adım adım tarifleri.",
+  "lang": "tr",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#F4F0E9",
+  "theme_color": "#F4F0E9",
+  "icons": [
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "icon.svg", "sizes": "any", "type": "image/svg+xml" }
+  ]
+}
